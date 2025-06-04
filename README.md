@@ -8,7 +8,7 @@ You can reach me: [cirim12@gmail.com](mailto:cirim12@gmail.com)
 
 ## 🌐 Contact with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazmi-cirim-631a212b3/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/nazmi-cirim-631a212b3/) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff)](https://www.kaggle.com/nazmicirim)
 
 ## 🧰 Programming Languages & Tools
 
