@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Nazmi
+# 👋 Hi, I'm Nazmi
 
 ## About Me
 
