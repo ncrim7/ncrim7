@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello, I'm Nazmi. I am a third-year computer engineering student. I am constantly learning new things in the field of technology and software, and I practice a lot. I attach great importance to teamwork and social relations.
+Hi, I'm Nazmi! I'm currently a Computer Engineering student with a strong passion for technology and software development. I'm always eager to expand my knowledge, explore new technologies, and sharpen my skills through hands-on practice. I highly value collaboration, effective teamwork, and building meaningful connections in the tech community.
 
 - Currently learning: Fullstack Development, AI - Data Science, New software technologies and languages  
 - Looking to collaborate on: Open source projects and group work  
