@@ -4,6 +4,15 @@
 
 Hi, I'm Nazmi! I'm currently a Computer Engineering student with a strong passion for technology and software development. I'm always eager to expand my knowledge, explore new technologies, and sharpen my skills through hands-on practice. I highly value collaboration, effective teamwork, and building meaningful connections in the tech community.
 
+- 🌱 I’m currently improving my skills in Artificial Intelligence and Fullstack Development.
+- 🤖 Passionate about exploring machine learning, deep learning, NLP and real-world AI applications.
+- 💻 Building fullstack projects using modern frameworks and best practices.
+- 🔍 Interested in combining AI with web technologies to build intelligent applications.
+- 🧠 Learning how to implement and fine-tune AI models for practical use cases.
+- 🛠️ Gaining hands-on experience with tools like TensorFlow, PyTorch, React, and Node.js.
+- 🧩 I enjoy working on challenging problems that require both frontend creativity and backend logic.
+- 📚 Constantly learning new technologies and improving my understanding of scalable and maintainable architectures.
+
 You can reach me: [cirim12@gmail.com](mailto:cirim12@gmail.com)  
 
 ## 🌐 Contact with me
