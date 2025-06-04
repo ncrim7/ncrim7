@@ -4,12 +4,7 @@
 
 Hi, I'm Nazmi! I'm currently a Computer Engineering student with a strong passion for technology and software development. I'm always eager to expand my knowledge, explore new technologies, and sharpen my skills through hands-on practice. I highly value collaboration, effective teamwork, and building meaningful connections in the tech community.
 
-- Currently learning: Fullstack Development, AI - Data Science, New software technologies and languages  
-- Looking to collaborate on: Open source projects and group work  
--  Languages: Turkish (Native), English  
-- Ask me about: Software development, computer engineering, and technology  
-- How to reach me: [cirim12@gmail.com](mailto:cirim12@gmail.com)  
-- Fun fact: I love walking, listening to music, and coding  
+You can reach me: [cirim12@gmail.com](mailto:cirim12@gmail.com)  
 
 ## 🌐 Contact with me
 
