@@ -11,7 +11,7 @@ Hi, I'm Nazmi! I'm currently a Computer Engineering student with a strong passio
 - How to reach me: [cirim12@gmail.com](mailto:cirim12@gmail.com)  
 - Fun fact: I love walking, listening to music, and coding  
 
-## 🌐 Connect with me
+## 🌐 Contact with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazmi-cirim-631a212b3/)
 
