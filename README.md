@@ -1,17 +1,17 @@
-# 👋 Hi, I'm Nazmi
+# 👋 Hi, I'm Nazmi — AI & Full Stack Developer
 
 ## About Me
 
-Hi, I'm Nazmi! I'm currently a Computer Engineering student with a strong passion for technology and software development. I'm always eager to expand my knowledge, explore new technologies, and sharpen my skills through hands-on practice. I highly value collaboration, effective teamwork, and building meaningful connections in the tech community.
+Building production-oriented AI systems on top of enterprise stacks — where LLM/RAG pipelines meet real ERP workflows (SAP CAP, Fiori/UI5, OData).
 
-- 🌱 I’m currently improving my skills in Artificial Intelligence and Fullstack Development.
-- 🤖 Passionate about exploring machine learning, deep learning, NLP and real-world AI applications.
-- 💻 Building fullstack projects using modern frameworks and best practices.
-- 🔍 Interested in combining AI with web technologies to build intelligent applications.
-- 🧠 Learning how to implement and fine-tune AI models for practical use cases.
-- 🛠️ Gaining hands-on experience with tools like TensorFlow, PyTorch, React, and Node.js.
-- 🧩 I enjoy working on challenging problems that require both frontend creativity and backend logic.
-- 📚 Constantly learning new technologies and improving my understanding of scalable and maintainable architectures.
+Focus areas
+- Multi-agent LLM systems — self-verifying document-understanding pipelines (Extract → Verify → Correct) for invoice/PO processing, cutting hallucination through iterative correction instead of a single-pass call.
+- Applied ML on production data — multivariate time-series forecasting and explainable AI (SHAP/LIME) for manufacturing and agricultural decision support.
+- Enterprise integration — SAP BTP / CAP / Fiori-UI5 / OData: the layer most AI-only engineers skip, and most SAP-only engineers can't extend with AI.
+
+Currently
+- AI Research Intern @ Spikedge — multivariate climate forecasting for greenhouse systems.
+- Turning my graduation project (self-verifying document understanding) into a real tool for accounting/bookkeeping offices → doc-verify
 
 You can reach me: [cirim12@gmail.com](mailto:cirim12@gmail.com)  
 
