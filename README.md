@@ -48,24 +48,3 @@ You can reach me: [cirim12@gmail.com](mailto:cirim12@gmail.com)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-
-
-## 🚀 Featured Projects
-
-### 📌 [Market-Value-Prediction](https://github.com/ncrim7/Market-Value-Prediction)
-Description: Market Value Prediction of Football Players Project with Machine Learning Algorithms
-**Technologies:** [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
-[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
-[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
-
----
-
-### 📌 [real-time-quiz-app](https://github.com/ncrim7/real-time-quiz-app)
-Description: Advanced real-time multiplayer quiz platform. Users can register and log in, create quizzes, join live quiz sessions with a PIN, and view leaderboards. It offers modern features such as live quiz lobby, timer, simultaneous question feed, automatic question transition, and quiz history.  
-**Technologies:** [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-
----
-
